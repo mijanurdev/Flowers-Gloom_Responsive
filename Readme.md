@@ -12,9 +12,9 @@ A responsive flower shop landing page built with HTML and CSS as part of a web d
 
 ## 📖 Project Overview
 
-Flower Gloom is a responsive flower shop landing page designed to showcase fresh flowers and plants in a clean and attractive layout.
+Flower Gloom is a responsive flower shop landing page designed using HTML and CSS.
 
-The website includes a navigation bar, hero section, flower product cards, a plants lover section, special deals, newsletter subscription area, and footer.
+The website showcases fresh flowers and plants with product cards, special deals, a newsletter section, and a clean footer layout.
 
 ## 🛠️ Main Technologies
 
@@ -38,9 +38,9 @@ The website includes a navigation bar, hero section, flower product cards, a pla
 - Latest Deals section
 - Discount offer cards
 - Newsletter subscription section
-- Footer with navigation links
+- Footer section
 - Social media icons
-- Hover effects on buttons
+- Hover effects
 - Clean and modern user interface
 
 ## ⚙️ Dependencies
@@ -53,26 +53,9 @@ It uses:
 - CSS3
 - Google Fonts (Inter and Noto Serif)
 
-## 📂 Project Structure
+## 💻 How to Run Locally
 
-```text
-Flowers-Gloom_Responsive/
-│
-├── Style/
-│   └── Style.css
-│
-├── assets/
-│   ├── logo.png
-│   ├── hero-flower.png
-│   ├── sample-flower-image.png
-│   ├── flower-store.png
-│   ├── trusted-badge.png
-│   ├── deal-bloom.png
-│   ├── deal-ana.png
-│   ├── deal-zabo.png
-│   ├── news-letter-bg.png
-│   └── social media icons
-│
-├── index.html
-├── flower-gloom-screenshot.png
-└── README.md
+1. Clone the repository:
+
+```bash
+git clone https://github.com/mijanurdev/Flowers-Gloom_Responsive.git
